@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ImagePromtAI/static/css/main.2852dea1.css",
+    "main.js": "/ImagePromtAI/static/js/main.ff7d759a.js",
+    "static/js/787.83c22266.chunk.js": "/ImagePromtAI/static/js/787.83c22266.chunk.js",
+    "index.html": "/ImagePromtAI/index.html",
+    "main.2852dea1.css.map": "/ImagePromtAI/static/css/main.2852dea1.css.map",
+    "main.ff7d759a.js.map": "/ImagePromtAI/static/js/main.ff7d759a.js.map",
+    "787.83c22266.chunk.js.map": "/ImagePromtAI/static/js/787.83c22266.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2852dea1.css",
+    "static/js/main.ff7d759a.js"
+  ]
+}
